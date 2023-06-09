@@ -1,2 +1,0 @@
-# imageProcessesing
- DioChallenge
