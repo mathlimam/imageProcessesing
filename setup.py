@@ -8,7 +8,7 @@ def read(fname):
     return open(os.path.join(os.path.dirname(__file__), fname)).read()
 
 setup(
-    name = "image_processing-package",
+    name = "image_processing-package-dio-challenge",
     version="0.0.1",
     author="Matheus Lima Moreira",
     author_email="math.lima.m@gmail.com",
