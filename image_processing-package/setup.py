@@ -11,7 +11,7 @@ setup(
     version="0.0.1",
     author="Matheus Lima Moreira",
     author_email="math.lima.m@gmail.com",
-    description=('''A image processing tool that generates normal maps''')
+    description=('''A image processing tool that generates normal maps'''),
     url=""
 
 )
