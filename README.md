@@ -55,8 +55,11 @@ plotter.plot(image)
 ## Requirements
 
 The Image Processing Package has the following requirements:
-
+```
 numpy
 opencv_python
 Pillow
 scikit-image
+```
+
+https://pypi.org/project/image-processing-package-dio-challenge/
